@@ -26,6 +26,7 @@ A premium, modern, and ultra-vibrant skin for YouTube Music inspired by the eleg
 ## 📸 Screenshots
 
 *(Screenshots will dynamically load from your marketplace configuration variables)*
+"0.mp4",
 <img width="1917" height="1077" alt="5" src="https://github.com/user-attachments/assets/83a0f4ee-afcf-4d85-b04f-951d25196fb5" />
 <img width="1912" height="1077" alt="4" src="https://github.com/user-attachments/assets/7293032c-9c83-40c8-8c1e-721029dd7b33" />
 <img width="1917" height="1077" alt="3" src="https://github.com/user-attachments/assets/e9ae122b-8a6c-4af2-a01d-10660a4a74fb" />
